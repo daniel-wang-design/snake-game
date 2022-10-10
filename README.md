@@ -36,7 +36,7 @@ This file contains the class Food which handles the Food object. Food objects ar
 This file contains the Snake class which contains all functions and variables related to the snake that the player controls. All movement and collision with the outer edges of the game, an apple, or with the snake itself. It also contains functions that control the snake's movement given a keyboard input. 
 
 ## SnakeGameByDaniel.java
-This file contains the main class SnakeGameByDaniel which has all code needed to integrate all the aforementioned fles as objects and to produce visual ooutput using JavaFX. JavaFX is set up here using AnimationTimer as well as updating the PrimaryStage as events occur in the game. This class also handles keyboard and mouse input as dictated by built-in listener functions in JavaFX.  
+This file contains the main class SnakeGameByDaniel which has all code needed to integrate all the aforementioned fles as objects and to produce visual output using JavaFX. JavaFX is set up here using AnimationTimer as well as updating the PrimaryStage as events occur in the game. This class also handles keyboard and mouse input as dictated by built-in listener functions in JavaFX.  
 
 
 
